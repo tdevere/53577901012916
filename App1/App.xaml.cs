@@ -34,7 +34,7 @@ namespace App1
         {
             AppCenter.LogLevel = LogLevel.Verbose;
 
-            AppCenter.Start("6e6ea03c-a99f-431c-9ca0-27ec72d4fa29",
+            AppCenter.Start("993b7e03-5130-4daf-892e-2ba8be963423",
                   typeof(Analytics), typeof(Crashes));
             this.InitializeComponent();
             this.Suspending += OnSuspending;

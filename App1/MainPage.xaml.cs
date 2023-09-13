@@ -25,6 +25,8 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
+
+            //Microsoft.AppCenter.Crashes.Crashes.GenerateTestCrash();
         }
     }
 }
